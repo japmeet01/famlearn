@@ -806,7 +806,7 @@ section {
 .team .member .member-info-content h4 {
   font-weight: 700;
   margin-bottom: 2px;
-  font-size: 18px;
+  font-size: 14px;
   color: #fff;
 }
 .team .member .member-info-content span {
@@ -850,6 +850,11 @@ section {
 .team .member:hover .social {
   left: 0;
   transition: left ease-in-out 0.3s;
+}
+.teampic{
+  height: 194px;
+  /* width: 194px; */
+  border-radius: 4.5%;
 }
 
 /*--------------------------------------------------------------
